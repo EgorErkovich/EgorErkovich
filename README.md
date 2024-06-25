@@ -12,8 +12,14 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ## 💁‍♂ My projects
+[eCommerce Application](https://web-wizards-store.netlify.app/)
+[Puzzle](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/rss-puzzle/)
+[Nonograms](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/nonograms/)
+[Hangman](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/hangman/)
+[Coffee house](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/coffee-house/)
 ## 🦉 Codewars
 [![codewars](https://www.codewars.com/users/Egor%20Erkovich/badges/large)](https://www.codewars.com/users/Egor%20Erkovich)
