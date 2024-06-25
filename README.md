@@ -1,5 +1,10 @@
 # 👋 Hi there, I'm Egor Erkovich
+
 ## 👨‍💻 About me
+Frontend developer with experience in the design, implementation and testing of web applications. I successfully completed the course at RSSchool, writing the final project on react. I am currently studying angular.
+
+#### Contact me: [![Telegram](https://img.shields.io/badge/Ederkovich-2AABEE?style=flat&logo=Telegram)](https://t.me/Ederkovich) [![Linkedin](https://img.shields.io/badge/egor--erkovich-0072b1?style=flat&logo=Linkedin)](https://www.linkedin.com/in/egor-erkovich/) [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=flat&logo=Gmail)](mailto:erkovich.egor123@gmail.com)
+
 ## 💻 Skills
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
