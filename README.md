@@ -22,6 +22,7 @@ Frontend developer with experience in the design, implementation and testing of 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ## 💁‍♂ My projects
 - [eCommerce Application](https://web-wizards-store.netlify.app/)
+- [Train-A](https://train-ralugna.netlify.app/#/)
 - [Puzzle](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/rss-puzzle/)
 - [Nonograms](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/nonograms/)
 - [Hangman](https://rolling-scopes-school.github.io/egorerkovich-JSFE2023Q4/hangman/)
